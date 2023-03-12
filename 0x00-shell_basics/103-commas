@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -dp * | sed 's/\/$/\//' | tr '\n' ',' | sed 's/,$/\n/'
-
+ls -amph
