@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -p -1 -v | sed -e 's/[^/]*$/&\//' | tr '\n' ',' | sed 's/,$/\n/'
