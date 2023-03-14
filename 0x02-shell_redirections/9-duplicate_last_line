@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 tail -n 1 iacta | cat >> iacta
+=======
+tail -n1 iacta >> iacta
+>>>>>>> ed710bdc9b66d2bc0dd0de52057b4f7c90b07394

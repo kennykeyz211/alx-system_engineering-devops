@@ -1,1 +1,1 @@
-su
+shell permission
